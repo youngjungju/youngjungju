@@ -1,11 +1,7 @@
-!### Hi there 👋
-​
+Hi there 👋
 <!--
 **youngjungju/youngjungju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-​
 
-Here are some ideas to get you started:
-​
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-​
-![youngjungju's github stats](https://github-readme-stats.vercel.app/api?username=youngjungju&show_icons=true&hide_border=true)
-<img aglin="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjungju&layout=compact&langs_count=8"/>
-  <br>
+

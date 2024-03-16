@@ -3,9 +3,9 @@
 
 
 <!-- Skills -->
-### Skills 
+## Skills 
 
-#### Frameworks
+### Frameworks
 
   <a href="#">
     <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
@@ -22,7 +22,7 @@
 
 
 
-#### Languages
+### Languages
 
   <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -52,7 +52,7 @@
     <img src="svg/dev/languages/swift.svg" alt="swuft" style="vertical-align:top; margin:6px 4px">
    </a>
 
-#### Tools
+### Tools
 
    <a href="#">
     <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:6px 4px">

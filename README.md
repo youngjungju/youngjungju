@@ -80,8 +80,7 @@
 
 <p align="center">
      <a href="#">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjungju&count_bg=%236EFF00&title_bg=%23E99F9F&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false
-    " alt="view count" style="vertical-align:top; margin:6px 4px">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjungju&count_bg=%236EFF00&title_bg=%23E99F9F&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="view count" style="vertical-align:top; margin:50px 50px">
     </a>    
 </p>
 

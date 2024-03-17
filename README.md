@@ -14,12 +14,13 @@
 
 ## 활동
 
-### 회사
+### 경력
 
-| 강연 & 캠프  |        역할         |        주관         |   
-|:--------:|:-----------------:|:-----------------:|
-|  아리바이오   | Software Engineer | 2022.10 ~ 2023.03 | 
-| 소프트웨어팩토리 | Software Engineer | 2022.01 ~ 2023.02 | 
+|                       프로젝트                        |        역할         |                                                    주관                                                    |        날짜         |   
+|:-------------------------------------------------:|:-----------------:|:--------------------------------------------------------------------------------------------------------:|:-----------------:|
+|          [HUT](https://hut.handong.app/)          | Software Engineer |                                    [UNBAP](https://unbap.github.io/)                                     | 2021.11 ~ 2022.07 |
+| [MicroLearnable](https://microlearnable.com/home) | Software Engineer |                      [소프트웨어팩토리](https://kr.linkedin.com/company/swfact)                                  | 2022.10 ~ 2023.03 |
+|          [MEMO:RE](http://memore.co.kr/)          | Software Engineer |                                    [아리바이오](http://www.aribiousa.com/)                                    | 2022.01 ~ 2023.02 | 
 
 
 ### 캠프 & 멘토

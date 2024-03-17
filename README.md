@@ -1,8 +1,16 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm JuYoung Jeoung</h3>
 
+<h1 align="center">
+<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h3eXV6dDk3djVkcDdtbDVsMXEyZjlwdnMxOHgzeWRmNWN1cHlvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NmpauqzIjOIw0SMpvC/giphy.gif">
+</h1>
+<h2 align="center">
+긍정적인 영향을 주는 사람, 정주영입니다
+</h2>
 <!-- Introduce -->
-I'm a Software Engineer with a Bachelor of Science in Computer Science and experience designing and developing web and mobile applications from concept to deployment.
+
+<h5>
+개발자로서 불타오르는 열정과 꾸준한 끈기를 무기로 새로운 것을 개척해내고 좋은 사람들과 팀을 이루어 새로운 선순환을 만들고 싶습니다.
+</h5>
 
 ## 활동
 
@@ -36,7 +44,7 @@ I'm a Software Engineer with a Bachelor of Science in Computer Science and exper
 |                               한동대학교 SW 교육동영상                               | 최우수상 | 2021.09 |
 |                        한동대학교 SW 페스티벌 문제해결 아이디어 공모전                         | 우수상  | 2021.12 |
 |                        한동대학교 SW 페스티벌 스마트 애플리케이션 공모전                        |  대상  | 2021.12 |
-|                        NAVER 디지털 혁신공유대학사업 메타버스 경진대회                        |  금상  | 2021.12 |
+|                    [NAVER 디지털 혁신공유대학사업 메타버스 경진대회   ](https://www.youtube.com/watch?v=XCCy1OlHNLI)                     |  금상  | 2021.12 |
 |                    부산대학교 문화 속 공학 찾기 'Engineered World'                     | 장려상  | 2022.07 |
 |                        한동대학교 SW 페스티벌 문제해결 아이디어 공모전                         | 최우수상 | 2022.11 |
 | [IT 해커톤 (NORITON)](https://youtu.be/IPDxOjvykPA?si=nv0CFw8P7Gkj175w&t=146) | 최우수상 | 2023.01 |

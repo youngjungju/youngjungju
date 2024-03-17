@@ -1,11 +1,43 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm JuYoung Jeoung</h3>
 
+<!-- Introduce -->
+I'm a Software Engineer with a Bachelor of Science in Computer Science and experience designing and developing web and mobile applications from concept to deployment.
+
+## 활동
+
+### 회사
+
+| 강연 & 캠프  |        역할         |        주관         |   
+|:--------:|:-----------------:|:-----------------:|
+|  아리바이오   | Software Engineer | 2022.10 ~ 2023.03 | 
+| 소프트웨어팩토리 | Software Engineer | 2022.01 ~ 2023.02 | 
+
+
+### 캠프 & 멘토
+
+|             캠프 & 멘토              |      역할      |      주관       |           날짜            |
+|:--------------------------------:|:------------:|:-------------:|:-----------------------:|
+|       아이디어 도출해서 빠르게 앱 만들기        | 강사 / 운영 / 멘토 |     충남대학교     | 2022.01.03 ~ 2022.01.14 |
+|         Advanced Flutter         | 강사 / 운영 / 멘토 |     한동대학교     | 2022.06.20 ~ 2022.07.08 |
+| Design System을 활용한 디자이너-개발자 협업캠프 | 강사 / 운영 / 멘토 |     한동대학교     | 2022.06.27 ~ 2022.07.08 |
+|         경북 ICT 이노베이션스퀘어          |      멘토      |    ICT IS     |    2022.06 ~ 2022.09    |
+|          동계 SW 스킬업 프로그램          |      강사      |     경북대학교     | 2023.01.26 ~ 2023.01.28 |
+
+### 발표
+|                   발표                   |      주관       |           날짜            |
+|:--------------------------------------:|:-------------:|:-----------------------:|
+| [Flutter에 Figma Variable Fonts 적용하기](https://www.youtube.com/watch?v=ZCvEiCVn9X0) | Flutter Forward Extended Korea |       2023.04.01        |
+
+
 
 <!-- Skills -->
-## Skills 
+## 기술 스택 
 
-### Frameworks
+### 프레임워크 & 플랫폼 
+  <a href="#">
+    <img src="svg/dev/frameworks/ios.svg" alt="ios" style="vertical-align:top; margin:6px 4px">
+  </a>
 
   <a href="#">
     <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
@@ -22,7 +54,7 @@
 
 
 
-### Languages
+### 언어 
 
   <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -52,7 +84,7 @@
     <img src="svg/dev/languages/swift.svg" alt="swuft" style="vertical-align:top; margin:6px 4px">
    </a>
 
-### Tools
+### 도구 
 
    <a href="#">
     <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:6px 4px">
@@ -77,6 +109,8 @@
   <a href="#">
     <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
    </a>
+
+
 
 <p align="center">
      <a href="#">

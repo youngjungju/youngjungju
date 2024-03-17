@@ -29,6 +29,18 @@ I'm a Software Engineer with a Bachelor of Science in Computer Science and exper
 |:--------------------------------------:|:-------------:|:-----------------------:|
 | [Flutter에 Figma Variable Fonts 적용하기](https://www.youtube.com/watch?v=ZCvEiCVn9X0) | Flutter Forward Extended Korea |       2023.04.01        |
 
+### 대회
+|                                     대회                                     |  수상  |   날짜    |
+|:--------------------------------------------------------------------------:|:----:|:-------:|
+|                       한동대학교 SW 페스티벌 1학년 자작소프트웨어 공모전                        |  대상  | 2020.11 |
+|                               한동대학교 SW 교육동영상                               | 최우수상 | 2021.09 |
+|                        한동대학교 SW 페스티벌 문제해결 아이디어 공모전                         | 우수상  | 2021.12 |
+|                        한동대학교 SW 페스티벌 스마트 애플리케이션 공모전                        |  대상  | 2021.12 |
+|                        NAVER 디지털 혁신공유대학사업 메타버스 경진대회                        |  금상  | 2021.12 |
+|                    부산대학교 문화 속 공학 찾기 'Engineered World'                     | 장려상  | 2022.07 |
+|                        한동대학교 SW 페스티벌 문제해결 아이디어 공모전                         | 최우수상 | 2022.11 |
+| [IT 해커톤 (NORITON)](https://youtu.be/IPDxOjvykPA?si=nv0CFw8P7Gkj175w&t=146) | 최우수상 | 2023.01 |
+
 
 
 <!-- Skills -->

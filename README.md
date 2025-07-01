@@ -1,7 +1,7 @@
 <!-- Heading -->
 
 <h1 align="center">
-<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h3eXV6dDk3djVkcDdtbDVsMXEyZjlwdnMxOHgzeWRmNWN1cHlvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NmpauqzIjOIw0SMpvC/giphy.gif">
+<!-- <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h3eXV6dDk3djVkcDdtbDVsMXEyZjlwdnMxOHgzeWRmNWN1cHlvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NmpauqzIjOIw0SMpvC/giphy.gif"> -->
 </h1>
 <h2 align="center">
 긍정적인 영향을 주는 사람, 정주영입니다

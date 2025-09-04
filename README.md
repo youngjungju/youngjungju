@@ -8,6 +8,14 @@
 </h2>
 <!-- Introduce -->
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=youngjungju&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Callein"
+  width="600"
+  height="300"
+/>
+</a>
+
 <h5>
 개발자로서 불타오르는 열정과 꾸준한 끈기를 무기로 새로운 것을 개척해내고 좋은 사람들과 팀을 이루어 새로운 선순환을 만들고 싶습니다.
 </h5>

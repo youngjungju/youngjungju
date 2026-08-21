@@ -1,0 +1,11 @@
+name: pokerepo
+on:
+  schedule: [{ cron: "0 21 * * *" }]
+  workflow_dispatch:
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: wantaekchoi/pokerepo@312513d8b8b269ee6ad931fcebd7bea1688ddb59 # v1

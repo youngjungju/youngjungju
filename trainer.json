@@ -1,0 +1,359 @@
+{
+  "login": "youngjungju",
+  "repos": {
+    "youngjungju/ATOP": {
+      "exp": 1500,
+      "caught": true,
+      "species": 540,
+      "stars": 0,
+      "commits": 6,
+      "merges": 0,
+      "alive": true,
+      "level": 13,
+      "mon": 540
+    },
+    "youngjungju/chanyu-website": {
+      "exp": 4750,
+      "caught": true,
+      "species": 605,
+      "stars": 0,
+      "commits": 19,
+      "merges": 0,
+      "alive": true,
+      "level": 16,
+      "mon": 605
+    },
+    "ultraworkers/claw-code": {
+      "exp": 0,
+      "caught": false,
+      "species": 447,
+      "stars": 195105,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 447
+    },
+    "youngjungju/claude-code-one-click": {
+      "exp": 1750,
+      "caught": true,
+      "species": 846,
+      "stars": 0,
+      "commits": 7,
+      "merges": 0,
+      "alive": true,
+      "level": 11,
+      "mon": 846
+    },
+    "youngjungju/elephantjuyoung": {
+      "exp": 1500,
+      "caught": true,
+      "species": 535,
+      "stars": 1,
+      "commits": 6,
+      "merges": 0,
+      "alive": true,
+      "level": 13,
+      "mon": 535
+    },
+    "youngjungju/flutter_theme_template": {
+      "exp": 750,
+      "caught": true,
+      "species": 273,
+      "stars": 1,
+      "commits": 3,
+      "merges": 0,
+      "alive": true,
+      "level": 11,
+      "mon": 273
+    },
+    "youngjungju/letu.github.io": {
+      "exp": 250,
+      "caught": true,
+      "species": 333,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 5,
+      "mon": 333
+    },
+    "youngjungju/MIADC": {
+      "exp": 20750,
+      "caught": true,
+      "species": 285,
+      "stars": 1,
+      "commits": 83,
+      "merges": 0,
+      "alive": true,
+      "level": 28,
+      "mon": 286
+    },
+    "youngjungju/MilkRoad": {
+      "exp": 1750,
+      "caught": true,
+      "species": 831,
+      "stars": 1,
+      "commits": 7,
+      "merges": 0,
+      "alive": true,
+      "level": 12,
+      "mon": 831
+    },
+    "youngjungju/mintme": {
+      "exp": 500,
+      "caught": true,
+      "species": 833,
+      "stars": 1,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 833
+    },
+    "youngjungju/monad-blitz-seoul-receipt": {
+      "exp": 1500,
+      "caught": true,
+      "species": 261,
+      "stars": 0,
+      "commits": 6,
+      "merges": 0,
+      "alive": true,
+      "level": 11,
+      "mon": 261
+    },
+    "monad-developers/monad-blitz-seoul": {
+      "exp": 0,
+      "caught": false,
+      "species": 932,
+      "stars": 2,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 932
+    },
+    "Yeachan-Heo/oh-my-codex": {
+      "exp": 0,
+      "caught": false,
+      "species": 374,
+      "stars": 32785,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 374
+    },
+    "youngjungju/Timekeeper": {
+      "exp": 750,
+      "caught": true,
+      "species": 396,
+      "stars": 0,
+      "commits": 3,
+      "merges": 0,
+      "alive": true,
+      "level": 11,
+      "mon": 396
+    },
+    "youngjungju/WebGL-Multi-Object-Scene": {
+      "exp": 500,
+      "caught": true,
+      "species": 859,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 859
+    },
+    "youngjungju/youngjungju": {
+      "exp": 10000,
+      "caught": true,
+      "species": 572,
+      "stars": 0,
+      "commits": 40,
+      "merges": 0,
+      "alive": true,
+      "level": 23,
+      "mon": 572
+    },
+    "mmistakes/minimal-mistakes": {
+      "exp": 0,
+      "caught": false,
+      "species": 810,
+      "stars": 13556,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 810
+    },
+    "youngjungju/claude-code": {
+      "exp": 800,
+      "caught": true,
+      "species": 840,
+      "stars": 1,
+      "commits": 2,
+      "merges": 1,
+      "alive": true,
+      "level": 7,
+      "mon": 840
+    },
+    "Johnwook1m/ArchiveAtlas": {
+      "exp": 6000,
+      "caught": true,
+      "species": 731,
+      "stars": 0,
+      "commits": 5,
+      "merges": 1,
+      "alive": true,
+      "level": 18,
+      "mon": 732
+    },
+    "NORITHON/MOA": {
+      "exp": 15600,
+      "caught": true,
+      "species": 837,
+      "stars": 0,
+      "commits": 16,
+      "merges": 2,
+      "alive": true,
+      "level": 27,
+      "mon": 838
+    },
+    "79fa/hihello": {
+      "exp": 3600,
+      "caught": true,
+      "species": 835,
+      "stars": 0,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 16,
+      "mon": 835
+    },
+    "cys01/OSSweek9": {
+      "exp": 3600,
+      "caught": true,
+      "species": 43,
+      "stars": 0,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 17,
+      "mon": 43
+    }
+  },
+  "dex": {
+    "43": {
+      "seen": true,
+      "caught": true
+    },
+    "261": {
+      "seen": true,
+      "caught": true
+    },
+    "273": {
+      "seen": true,
+      "caught": true
+    },
+    "285": {
+      "seen": true,
+      "caught": true
+    },
+    "286": {
+      "seen": true,
+      "caught": true
+    },
+    "333": {
+      "seen": true,
+      "caught": true
+    },
+    "374": {
+      "seen": true,
+      "caught": false
+    },
+    "396": {
+      "seen": true,
+      "caught": true
+    },
+    "447": {
+      "seen": true,
+      "caught": false
+    },
+    "535": {
+      "seen": true,
+      "caught": true
+    },
+    "540": {
+      "seen": true,
+      "caught": true
+    },
+    "572": {
+      "seen": true,
+      "caught": true
+    },
+    "605": {
+      "seen": true,
+      "caught": true
+    },
+    "731": {
+      "seen": true,
+      "caught": true
+    },
+    "732": {
+      "seen": true,
+      "caught": true
+    },
+    "810": {
+      "seen": true,
+      "caught": false
+    },
+    "831": {
+      "seen": true,
+      "caught": true
+    },
+    "833": {
+      "seen": true,
+      "caught": true
+    },
+    "835": {
+      "seen": true,
+      "caught": true
+    },
+    "837": {
+      "seen": true,
+      "caught": true
+    },
+    "838": {
+      "seen": true,
+      "caught": true
+    },
+    "840": {
+      "seen": true,
+      "caught": true
+    },
+    "846": {
+      "seen": true,
+      "caught": true
+    },
+    "859": {
+      "seen": true,
+      "caught": true
+    },
+    "932": {
+      "seen": true,
+      "caught": false
+    }
+  },
+  "trainer": {
+    "grassExp": 15400
+  },
+  "updatedAt": "2026-08-21",
+  "exp": {
+    "commitOwn": 250,
+    "commitExternal": 600,
+    "mergeOwn": 300,
+    "mergeExternal": 3000
+  }
+}

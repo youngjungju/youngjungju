@@ -242,6 +242,17 @@
       "alive": true,
       "level": 17,
       "mon": 43
+    },
+    "youngjungju/readyshot-support": {
+      "exp": 250,
+      "caught": true,
+      "species": 917,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 5,
+      "mon": 917
     }
   },
   "dex": {
@@ -341,15 +352,19 @@
       "seen": true,
       "caught": true
     },
+    "917": {
+      "seen": true,
+      "caught": true
+    },
     "932": {
       "seen": true,
       "caught": false
     }
   },
   "trainer": {
-    "grassExp": 15500
+    "grassExp": 15600
   },
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,

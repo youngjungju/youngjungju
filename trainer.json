@@ -244,14 +244,14 @@
       "mon": 43
     },
     "youngjungju/readyshot-support": {
-      "exp": 250,
+      "exp": 500,
       "caught": true,
       "species": 917,
       "stars": 0,
-      "commits": 1,
+      "commits": 2,
       "merges": 0,
       "alive": true,
-      "level": 5,
+      "level": 6,
       "mon": 917
     }
   },
@@ -364,7 +364,7 @@
   "trainer": {
     "grassExp": 15700
   },
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-15",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,

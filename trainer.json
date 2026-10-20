@@ -206,7 +206,7 @@
       "stars": 0,
       "commits": 5,
       "merges": 1,
-      "alive": true,
+      "alive": false,
       "level": 18,
       "mon": 732
     },
@@ -364,7 +364,7 @@
   "trainer": {
     "grassExp": 15100
   },
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-20",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
